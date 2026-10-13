@@ -12,7 +12,7 @@ This project focuses on designing an AWS architecture for availability, scalabil
 
 ## Architecture
 
-![AWS 3-Tier Highly Available and Scalable Architecture](docs/architecture.png)
+![AWS 3-Tier Highly Available and Scalable Architecture]
 
 The diagram shows a multi-AZ design with these main layers:
 
